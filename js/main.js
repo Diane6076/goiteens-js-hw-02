@@ -29,3 +29,8 @@ const Numbers = 75;
 console.log("Число: " + Numbers);
 console.log('Квадратний корінь числа:>>' +  Math.sqrt(75));
 
+const nums = 587;
+const str = '571';
+console.log(parseInt(str));
+console.log(nums.toString());
+console.log(String(nums));
